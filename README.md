@@ -25,7 +25,8 @@ CarbonTrade is a web-based platform designed to make carbon credit trading simpl
 ![Home Page](screenshots/home.png)
 
 ### Carbon Credit Marketplace
-![Marketplace](screenshots/marketplace.png)
+![Marketplace](<img width="1825" height="984" alt="Screenshot_15-10-2026_175754_localhost" src="https://github.com/user-attachments/assets/e80e3179-1be6-4b0e-8a46-4cfed9502e87" />
+)
 
 ### Portfolio Dashboard
 ![Dashboard](screenshots/dashboard.png)
